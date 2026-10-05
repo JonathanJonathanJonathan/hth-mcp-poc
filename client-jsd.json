@@ -1,9 +1,0 @@
-{
-  "client_id": "https://cdn.jsdelivr.net/gh/JonathanJonathanJonathan/hth-mcp-poc@main/client-jsd.json",
-  "client_name": "HTH2026 authz PoC (pentest@protozoan.nl)",
-  "redirect_uris": ["https://cdn.jsdelivr.net/gh/JonathanJonathanJonathan/hth-mcp-poc@main/cb"],
-  "token_endpoint_auth_method": "none",
-  "grant_types": ["authorization_code"],
-  "response_types": ["code"],
-  "scope": "mcp"
-}
